@@ -1,0 +1,7 @@
+torch
+timm>=1.0
+open_clip_torch
+scikit-learn
+pyyaml
+pillow
+numpy
